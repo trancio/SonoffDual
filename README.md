@@ -8,7 +8,7 @@ SonoffDual.setOn(relay)   # relay: 0 or 1
 
 SonoffDual.setOff(relay)  # relay: 0 or 1
 
-Sonoffdual.getStatus()    # return a list, e.g. ['on', 'off']
+SonoffDual.getStatus()    # return a list, e.g. ['on', 'off']
 
 **Example**
 
