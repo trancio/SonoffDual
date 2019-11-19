@@ -1,4 +1,4 @@
-##MicroPython relay module for Sonoff Dual
+## MicroPython relay module for Sonoff Dual
 
 Simple module for original Sonoff Dual
 
